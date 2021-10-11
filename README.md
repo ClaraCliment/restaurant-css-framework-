@@ -7,7 +7,7 @@ Dans le cadre de la formation BeCode Web Developer, créer le site web d'un rest
 
 ### Url du site
 
-[Découvrez le site ici!](https://claracliment.github.io/restaurant/contact.html)
+[Découvrez le site ici!](https://claracliment.github.io/restaurant-css-framework-/menu.html)
 
 Restaurant Miam Miam
 * **Date du début:** 05/10/2021
