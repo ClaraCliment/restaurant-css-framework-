@@ -11,8 +11,8 @@ Dans le cadre de la formation BeCode Web Developer, créer le site web d'un rest
 
 Restaurant Miam Miam
 * **Date du début:** 05/10/2021
-* * **Date de fin:** 12/10/2021 (à midi)
-* 
+* **Date de fin:** 12/10/2021 (à midi)
+
 ##### 5 pages à présenter:
 1. **Welcome**
 A page with one Jumbotron and two panels to show news (promo, events, etc…​).
