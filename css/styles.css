@@ -1,0 +1,97 @@
+/* Family fonts */
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+/* Palette de couleurs pour le site */
+:root {
+  --gris: #e9ecef;
+  --vert1: #7fc8a9;
+  --vert2: #d5eebb;
+  --vert3: #5f7a61;
+  --vert4: #444941;
+  --grisclair: #f6f6f6;
+  --rouge1: #d83a56;
+  --rouge2: #ff616d;
+}
+
+/* Layout général ---------------------------------------------------------*/
+body,
+h1,
+h2,
+h3,
+p,
+a,
+li {
+  font-family: "Montserrat", sans-serif;
+}
+#lorem {
+  font-weight: 900;
+}
+
+footer {
+  margin-top: 30px;
+}
+
+.separation {
+  margin-bottom: 15px;
+}
+
+.jumbotron {
+  background-image: url(/img/nafinia-putra-Kwdp-0pok-I-unsplash.jpg) !important;
+  background-position: center !important;
+  background-size: contain !important;
+  height: auto;
+  color: white;
+  border-radius: 0px !important;
+}
+
+/* MENU ----------------------------------------------------------------------------------------------------------------*/
+
+#menu_intro {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+#menu_intro img {
+  margin-bottom: 30px;
+}
+
+.jumbotron_index {
+  margin-top: 0px;
+  margin-bottom: 40px;
+  padding-top: 6%;
+  padding-bottom: 6%;
+}
+
+/*
+.jumbotron_menu {
+  margin-top: 40px;
+  margin-bottom: 40px;
+  padding-top: 4%;
+  padding-bottom: 4%;
+}
+*/
+
+.jumbotron_photos {
+  margin-top: 0px;
+  margin-bottom: 40px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.page-item.active .page-link {
+  z-index: 1;
+  color: #fff;
+  background-color: #198754;
+  border-color: #198754;
+}
+
+.page-link {
+  color: #198754;
+  background-color: #fff;
+  border: 1px solid #dee2e6;
+}
+
+/* TROUVER PAGE --------------------------------------------------------------------------*/
+#map_adresses {
+  margin-bottom: 30px;
+}
