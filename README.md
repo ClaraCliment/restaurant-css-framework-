@@ -41,6 +41,8 @@ Photos libres de droit provenant des sites: [Unsplash](https://unsplash.com/) & 
 
 ### Quelques images 
 
+![Quelques dessins pré-code](https://github.com/ClaraCliment/restaurant-css-framework-/blob/main/img/base%20site%20resto.jpg?raw=true)
+
 
 
 👉 Merci 👈
