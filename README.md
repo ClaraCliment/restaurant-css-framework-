@@ -32,9 +32,8 @@ A page with a contact form containing the firstname, lastname, email, subject of
 * Recherche d'inspiration // Moodboards (Behance, Pinterest, Google, ...)
 * Dessins (structurer visuellement le site avant de commencer à coder)
 * HTML (et employer Bootstrap grid pour le coté responsive ==> défini déjà plus ou moins dans les dessins)
-* Recherche de visuels libre de droits pour habiller ce site fictif + les resizer (sinon ça ralenti l'affichge)
-* Montrer l'évolution du job via captures écran et/ou photos
-* Mettre des "tags" sur la repository de ce job ("bootstrap", "restaurant", "HTML", "css", ...)
+* Recherche de visuels libre de droits pour habiller ce site fictif + les resizer (sinon ça ralenti l'affichage)
+* Montrer l'évolution du job via captures écran/dessins ou photos
 
 ### Crédits image:
 Photos libres de droit provenant des sites: [Unsplash](https://unsplash.com/) & [Pexels](https://www.pexels.com/fr-fr/)
