@@ -7,7 +7,7 @@ Dans le cadre de la formation BeCode Web Developer, créer le site web d'un rest
 
 ### Url du site
 
-[Découvrez le site ici!](https://claracliment.github.io/restaurant-css-framework-/menu.html)
+[Découvrez le site ici!](https://claracliment.github.io/restaurant-css-framework-/index.html)
 
 
 ![favicon](https://github.com/ClaraCliment/restaurant-css-framework-/blob/main/img/logo/champignon.png?raw=true)
